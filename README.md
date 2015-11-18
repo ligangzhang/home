@@ -1,3 +1,3 @@
 # home
-this is my first repositoty of github
+this is my first repositoty of github,
 a test
